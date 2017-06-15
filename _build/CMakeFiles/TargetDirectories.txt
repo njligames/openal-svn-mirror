@@ -1,0 +1,8 @@
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/install/strip.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/install.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/list_install_components.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/alut.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/rebuild_cache.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/edit_cache.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/install/local.dir
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/alut_static.dir

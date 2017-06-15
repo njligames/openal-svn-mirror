@@ -1,0 +1,15 @@
+Performing manual C SOURCE FILE Test HAVE_VISIBILITY with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_e1952"
+[1/2] Building C object CMakeFiles/cmTC_e1952.dir/src.c.o
+[2/2] Linking C executable cmTC_e1952.js
+
+Source file was:
+void __attribute__((visibility("default"))) test() {}
+#ifdef __INTEL_COMPILER
+#error ICC breaks with binutils and visibility
+#endif
+int main(){}
+
+

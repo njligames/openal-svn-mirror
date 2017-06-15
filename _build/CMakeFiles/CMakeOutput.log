@@ -1,0 +1,71 @@
+The target system is: Emscripten - 1 - x86
+The host system is: Darwin - 16.6.0 - x86_64
+Determining if the include file time.h exists passed with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_65bff"
+[1/2] Building C object CMakeFiles/cmTC_65bff.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_65bff.js
+
+
+Determining if the include file unistd.h exists passed with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_cb090"
+[1/2] Building C object CMakeFiles/cmTC_cb090.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_cb090.js
+
+
+Performing C SOURCE FILE Test HAVE_NANOSLEEP succeeded with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_95671"
+[1/2] Building C object CMakeFiles/cmTC_95671.dir/src.c.o
+[2/2] Linking C executable cmTC_95671.js
+
+Source file was:
+
+#include <time.h>
+int main(){
+nanosleep ((struct timespec*)0, (struct timespec*)0);
+}
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_592c0"
+[1/2] Building C object CMakeFiles/cmTC_592c0.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_592c0.js
+
+
+Performing C SOURCE FILE Test HAVE_STAT succeeded with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_45c41"
+[1/2] Building C object CMakeFiles/cmTC_45c41.dir/src.c.o
+[2/2] Linking C executable cmTC_45c41.js
+
+Source file was:
+
+
+  #include <sys/types.h>
+  #include <sys/stat.h>
+  #include <unistd.h>
+  
+int main(){
+stat ("", (struct stat*)0);
+}
+
+Performing C SOURCE FILE Test HAVE_ATTRIBUTE succeeded with the following output:
+Change Dir: /Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/alut/_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/ninja" "cmTC_0a422"
+[1/2] Building C object CMakeFiles/cmTC_0a422.dir/src.c.o
+[2/2] Linking C executable cmTC_0a422.js
+
+Source file was:
+void  foo (int bar __attribute__((unused)) ) { }
+static void baz (void) __attribute__((unused));
+static void baz (void) { }
+int main(){}
+

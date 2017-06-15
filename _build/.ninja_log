@@ -1,0 +1,26 @@
+# ninja log v5
+3	264	0	CMakeFiles/alut.dir/src/alutOutputStream.c.o	2f7ac69550c11c07
+5	266	0	CMakeFiles/alut.dir/src/alutVersion.c.o	85016b9a9d439e50
+4	268	0	CMakeFiles/alut.dir/src/alutUtil.c.o	676c4f0c8df6f408
+0	269	0	CMakeFiles/alut.dir/src/alutBufferData.c.o	7689e42a1f8e40e0
+1	270	0	CMakeFiles/alut.dir/src/alutError.c.o	5f0655d938e69837
+2	273	0	CMakeFiles/alut.dir/src/alutLoader.c.o	3a3c17bd4b993084
+6	315	0	CMakeFiles/alut.dir/src/alutWaveform.c.o	c26bc4c683ca638f
+1	322	0	CMakeFiles/alut.dir/src/alutCodec.c.o	29ec1f7695f2e04a
+1	333	0	CMakeFiles/alut.dir/src/alutInputStream.c.o	a77990a66d2ade4
+1	342	0	CMakeFiles/alut.dir/src/alutInit.c.o	ee174f904aca83a6
+269	519	0	CMakeFiles/alut_static.dir/src/alutInit.c.o	972b521567aa0e70
+268	520	0	CMakeFiles/alut_static.dir/src/alutError.c.o	6b6c229a117bbad2
+264	523	0	CMakeFiles/alut_static.dir/src/alutBufferData.c.o	1bb94403bc14204e
+266	528	0	CMakeFiles/alut_static.dir/src/alutCodec.c.o	52b0f011ec35be0c
+273	531	0	CMakeFiles/alut_static.dir/src/alutLoader.c.o	f534d2bd0fbbf8f4
+270	535	0	CMakeFiles/alut_static.dir/src/alutInputStream.c.o	54ad41c11b1d12e0
+333	589	0	CMakeFiles/alut_static.dir/src/alutVersion.c.o	72191af576610066
+322	590	0	CMakeFiles/alut_static.dir/src/alutUtil.c.o	247dd36116ae05be
+316	590	0	CMakeFiles/alut_static.dir/src/alutOutputStream.c.o	e4cf76770062d011
+342	676	0	libalut.so.0.0.0	4f9715008cb039f
+676	687	0	libalut.so.0	c679203e98549868
+676	687	0	libalut.so	c679203e98549868
+519	696	0	CMakeFiles/alut_static.dir/src/alutWaveform.c.o	4e4484b086e96781
+696	782	0	libalut_static.a	ddeab607d5b53fa6
+0	16	0	CMakeFiles/install.util	16b33be0a099a08e

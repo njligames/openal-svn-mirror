@@ -1,0 +1,7 @@
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/lib/libalut.a
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/include/AL/alut.h
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/lib/pkgconfig/freealut.pc
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/bin/freealut-config
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/lib/libalut.so.0.0.0
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/lib/libalut.so.0
+/Users/jamesfolk/Dropbox/Developer/NJLI/External/thirdparty/BUILD/lib/alut/emscripten/Debug/lib/libalut.so
